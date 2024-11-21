@@ -56,7 +56,9 @@ There are three letters 'r' in the word 'strawberry'.
 
 ## 🔔News
 🚀 [11/21/2024] OpenO1 SFT data for CoT Activation release！Welcome to download on [OpenO1-SFT data](https://huggingface.co/datasets/O1-OPEN/OpenO1-SFT)
+
 🚀 [10/09/2024] OpenO1 model-v0.1 release！
+
 🚀 [10/05/2024] OpenO1 initial release！
 
 ## Content Navigation
