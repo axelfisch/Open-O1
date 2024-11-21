@@ -15,7 +15,7 @@
 🪩Slack：[OpenO1-Slack](https://join.slack.com/t/openo1team/shared_invite/zt-2s55pxob5-lUcOu1zpiZajzFjQv6WZVQ)
 
 ## 🌈Mission and Vision for future
-Our **Open O1** aims to match the powerful capabilities of the proprietary OpenAI O1 model, empowering the community with advanced open-source alternatives. Our model has been developed by curating a set of **O1-style** thought data, which was then used to train both LLaMA and Qwen models. This training approach has endowed the smaller models with enhanced long-reasoning and problem-solving capabilities.
+Our **Open O1** aims to match the powerful capabilities of the proprietary OpenAI O1 model, empowering the community with advanced open-source alternatives. Our model has been developed by curating a set SFT data for CoT Activation, which was then used to train both LLaMA and Qwen models. This training approach has endowed the smaller models with enhanced long-reasoning and problem-solving capabilities.
 
 As the Open O1 project progresses, we will continue to push the boundaries of what's possible with large language models. Our vision is to create a model that not only achieves O1-like performance but also leads the way in test-time scaling, making advanced AI capabilities accessible to all. Through community-driven development and a commitment to ethical practices, Open O1 will be a cornerstone in the advancement of AI, ensuring that the future of technology is open and beneficial to all.
 ## Demo
@@ -55,6 +55,7 @@ There are three letters 'r' in the word 'strawberry'.
 ```
 
 ## 🔔News
+🚀 [11/21/2024] OpenO1 SFT data for CoT Activation release！Welcome to download on OpenO1-SFT[https://huggingface.co/datasets/O1-OPEN/OpenO1-SFT]
 🚀 [10/09/2024] OpenO1 model-v0.1 release！
 🚀 [10/05/2024] OpenO1 initial release！
 
